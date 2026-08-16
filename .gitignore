@@ -1,0 +1,41 @@
+# Dependencias
+node_modules/
+/.pnp
+.pnp.js
+
+# Entornos
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de sistema
+DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Visual Studio (backend/.vs)
+backend/.vs/
+
+# Build del frontend
+frontend-mantemof/build/
+frontend-mantemof/.env
+
+# Base de datos
+*.sql
+*.mwb
+*.mwb.bak
+
+# Archivos de Visual Studio Solution
+*.slnx/
+*.wsuo
+.vsidx
